@@ -12,4 +12,4 @@
 
 <h2 align="center">O que eu aprendi ?</h2>
 
-<p>No ínicio eu já sabia o básico, aprendi muita coisa em 5 dias, coisas que nunca tinha visto como a acessibilidade com a medida rem e o porque utilizar, o porque do uso de SVG, muitas coisas em HTML, CSS e JavaScript que nunca havia visto.</p>
+<p>No ínicio eu já sabia o básico, aprendi muita coisa em 5 dias, coisas que nunca tinha visto como a acessibilidade com a medida rem e o porque utilizar, o porque do uso de SVG, muitas coisas em HTML, CSS e JavaScript que nunca havia visto. Muito grato por todo ensinamento do Mayk Brito e da Rocketseat que proporcionol este maravilhoso evento</p>
