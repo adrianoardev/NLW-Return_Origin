@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/img/nlw-return-2022.jpg" alt="Foto da logo NLW Return "/>
+  <img src="./assets/img/nlw-return-2022.jpg" alt="Foto da logo NLW Return " width="500px"/>
   <p>Rocketseat - NLW Return <br>
   Trilha Origin 🚀
   </p>
