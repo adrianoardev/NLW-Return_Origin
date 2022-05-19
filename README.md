@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/86697578/169177748-a02b3365-465d-4925-98c9-20f3e73e2e31.png" width="400px"/>
   
   
-<h2><a href="https://sitedoctorcare.netlify.app/">Link do site do projeto</a></h2>
+<h2><a href="https://sitedoctorcare.netlify.app/" target="_blank">Link do site do projeto</a></h2>
 
 <h2>Tecnologias utilizadas</h2>
 
